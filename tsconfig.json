@@ -7,17 +7,8 @@
         "rootDir": "src",
         "outDir": "lua",
         "types": [
-            "lua-types/core/coroutine",
-            "lua-types/core/global",
-            "lua-types/core/math",
-            "lua-types/core/metatable",
-            "lua-types/core/modules",
-            "lua-types/core/string",
-            "lua-types/core/table",
-            "lua-types/core/os",
-            "lua-types/special/5.1"
-        ],
-        "typeRoots": ["@types"]
+            "@wartoshika/wow-declarations"
+        ]
     },
     "tstl": {
         "luaTarget": "5.1",

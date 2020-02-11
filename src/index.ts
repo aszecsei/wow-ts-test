@@ -1,1 +1,1 @@
-print(_VERSION)
+print(GetAccountExpansionLevel())
