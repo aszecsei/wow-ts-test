@@ -1,0 +1,10 @@
+/** @noSelfInFile */
+
+declare type EXPANSION_CLASSIC = 0;
+declare type EXPANSION_BURNING_CRUSADE = 1;
+declare type EXPANSION_WRATH_OF_THE_LICH_KING = 2;
+declare type EXPANSION_CATACLYSM = 3;
+declare type EXPANSION_MISTS_OF_PANDARIA = 4;
+declare type EXPANSION_WARLORDS_OF_DRAENOR = 5;
+declare type EXPANSION_LEGION = 6;
+declare type EXPANSION_BATTLE_FOR_AZEROTH = 7;

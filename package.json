@@ -1,0 +1,17 @@
+{
+  "name": "wow-ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tstl",
+    "list": "tsc -p tsconfig.json --noEmit --listFiles",
+    "watch": "tstl --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lua-types": "^2.6.1",
+    "typescript-to-lua": "^0.31.0"
+  }
+}
